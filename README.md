@@ -60,4 +60,21 @@ In your browser head to the AWS website.
 
 https://calculator.aws/#/
 
+![13](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/5396b478-cc6e-4b6a-ad73-688765c51a66)
+
+![14](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/e32250f4-324a-44ae-8e6f-8e0010461ed2)
+
+![15](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/3786928b-3fea-4e2a-a4c9-0038d4c54215)
+
+![16](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/5b67914a-e7ba-4f43-b6ef-f82458df7542)
+
+![17](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/08ad6626-6ba2-4012-8821-e26190acfc99)
+
+![18](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/10978e13-c120-4f24-bcc5-b8aa3d7ee5e1)
+
+![19](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/cbc8da5a-9325-4a38-bf97-7958d9ad2ca5)
+
+![20](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/594018ae-8fa9-44b7-84ca-ff6ed954717b)
+
+
 ### Stage 3: GCP Virtual Machine Pricing
