@@ -70,23 +70,34 @@ Under Desciption I wrote "VM-estimate" but you can write whatever you want. Pay 
 
 ![15](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/3786928b-3fea-4e2a-a4c9-0038d4c54215)
 
-I added an instance type "m6g.large" and left storage settings to default.
+I decided to add SUSE Linux Enterprise Server as an operating system.
 
 ![16](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/5b67914a-e7ba-4f43-b6ef-f82458df7542)
 
-When you are done changing what you need in AWS scroll down and click save and add service. 
+I added an instance type "m6g.large" and left storage settings to default.
 
 ![17](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/08ad6626-6ba2-4012-8821-e26190acfc99)
 
-Click on "My Estimate"
+When you are done changing what you need in AWS scroll down and click save and add service. 
 
 ![18](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/10978e13-c120-4f24-bcc5-b8aa3d7ee5e1)
 
-And hit "Export" to save the quote
+Click on "My Estimate"
 
 ![19](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/cbc8da5a-9325-4a38-bf97-7958d9ad2ca5)
+
+And hit "Export" to save the quote
 
 ![20](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/594018ae-8fa9-44b7-84ca-ff6ed954717b)
 
 
 ### Stage 3: GCP Virtual Machine Pricing
+
+Google Cloud has the same options here is the link and my configurations.
+
+https://cloud.google.com/products/calculator
+
+![21](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/5bf345d1-8528-430c-9339-9ba857a34238)
+
+![22](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/5ccd8ce8-72ae-4bf0-b915-dc347073a83f)
+
