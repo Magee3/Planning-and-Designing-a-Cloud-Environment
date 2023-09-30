@@ -30,6 +30,7 @@ In Azure there are two operating systems you can use and that is Windows or Linu
 ![4](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/531cd5b6-56de-45d3-8a03-69296ff96560)
 
 With that there are various types of the operating system you can choose from.
+
 ![5](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/2a2cd4ad-09b5-49bf-aa6b-e508b832f856)
 
 ![6](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/e3728c72-ef3e-4ad2-a275-7cb4a2b5db8d)
@@ -49,11 +50,13 @@ Sadly this is not the final price for the VM, Azure requires you to purchase a s
 
 We will try standard. As you can see an extra $100 dollars a month has been added to this package. Leaving it to $237.24 a month or $2,846.88/yr for one machine. A lot more expensive then building your own
 but, if your goal is to move into cloud, paperless, always has access type of business model then be my guest. 
+
 ![10](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/5cecefad-328e-4cbc-a779-6cbc8ea4d146)
 
 ![11](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/c74ea5c3-70d3-4980-bc36-beec3802c692)
 
 Lastly you can save your quote for later by clicking the Export button below.
+
 ![12](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/b7b08e5c-a365-40e2-992d-9c2eec5693ac)
 
 
