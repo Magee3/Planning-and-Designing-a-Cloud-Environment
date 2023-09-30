@@ -56,4 +56,8 @@ Lastly you can save your quote for later by clicking the Export button below.
 
 ### Stage 2: AWS Virtual Machine Pricing Calculator
 
+In your browser head to the AWS website.
+
+https://calculator.aws/#/
+
 ### Stage 3: GCP Virtual Machine Pricing
