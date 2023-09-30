@@ -1,6 +1,9 @@
 # Planning and Designing a Cloud-Environment
 
+![Cloud_Environment_Cost_Thumbnail](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/7f15eb8f-7db1-40ad-b37c-4fd088947106)
+
 ## Objective
+
 
 We figure out how you will estimate cloud virtual machine operations expenses for an organization. We will be using
 online price calculators from Microsoft Azure, Amazon AWS and Google Cloud Platform. This is a key business requirement as
