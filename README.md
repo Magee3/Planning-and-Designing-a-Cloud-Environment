@@ -28,11 +28,18 @@ In Azure there are two operating systems you can use and that is Windows or Linu
 
 With that there are various types of the operating system you can choose from.
 ![5](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/2a2cd4ad-09b5-49bf-aa6b-e508b832f856)
+
 ![6](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/e3728c72-ef3e-4ad2-a275-7cb4a2b5db8d)
 
+Now we will select what type of Instance our machine will have. A instance is the portion of the computer we our renting out so to say. We are inputing how powerful and how much memory the virtual machine
+will have. We selected a Linux Machine running RHEL using an A2 Instance.
 
 ![7](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/962dd5ad-69d6-4a39-a548-dab10773fc76)
+
+The price comes down to $101.47 a month for this Virtual Machine. It is cheaped than the Windows default VM because Linux is an Open Source operating system, so it's free!
+
 ![8](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/e771a231-65a3-4bb8-a42e-182096422bc7)
+
 ![9](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/acf49a45-c48d-4782-b2cd-c6a5cf2933bb)
 
 ![10](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/5cecefad-328e-4cbc-a779-6cbc8ea4d146)
