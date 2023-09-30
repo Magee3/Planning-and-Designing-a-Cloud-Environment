@@ -47,7 +47,10 @@ Sadly this is not the final price for the VM, Azure requires you to purchase a s
 We will try standard. As you can see an extra $100 dollars a month has been added to this package. Leaving it to $237.24 a month or $2,846.88/yr for one machine. A lot more expensive then building your own
 but, if your goal is to move into cloud, paperless, always has access type of business model then be my guest. 
 ![10](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/5cecefad-328e-4cbc-a779-6cbc8ea4d146)
+
 ![11](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/c74ea5c3-70d3-4980-bc36-beec3802c692)
+
+Lastly you can save your quote for later by clicking the Export button below.
 ![12](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/b7b08e5c-a365-40e2-992d-9c2eec5693ac)
 
 
