@@ -20,7 +20,18 @@ Next select virtual machines, this is what we will be using for our cloud servic
 
 If you scroll down you can see the default package is $137.24 well at the time that I post this write up.
 
+![1 5](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/b20d4b14-b54f-4664-9fa2-df59a3247504)
 
+![4](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/531cd5b6-56de-45d3-8a03-69296ff96560)
+
+![5](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/2a2cd4ad-09b5-49bf-aa6b-e508b832f856)
+![6](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/e3728c72-ef3e-4ad2-a275-7cb4a2b5db8d)
+![7](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/962dd5ad-69d6-4a39-a548-dab10773fc76)
+![8](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/e771a231-65a3-4bb8-a42e-182096422bc7)
+![9](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/bf7e50f3-318f-4da5-b799-016e69d5e581)
+![10](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/5cecefad-328e-4cbc-a779-6cbc8ea4d146)
+![11](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/c74ea5c3-70d3-4980-bc36-beec3802c692)
+![12](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/b7b08e5c-a365-40e2-992d-9c2eec5693ac)
 
 
 ### Stage 2: AWS Virtual Machine Pricing Calculator
