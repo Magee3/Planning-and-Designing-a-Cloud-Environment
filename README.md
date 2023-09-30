@@ -56,21 +56,33 @@ Lastly you can save your quote for later by clicking the Export button below.
 
 ### Stage 2: AWS Virtual Machine Pricing Calculator
 
-In your browser head to the AWS website.
+In your browser head to the AWS website and click "Create estimate"
 
 https://calculator.aws/#/
 
 ![13](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/5396b478-cc6e-4b6a-ad73-688765c51a66)
 
-![14](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/e32250f4-324a-44ae-8e6f-8e0010461ed2)
+Under Find Service type "EC2" and below click "Configure" under te Amazon EC2 tab. EC2 is your genral virtual machine option.
+
+![14](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/4160e2e3-e27a-4f57-a6a3-1c79d7eb136b)
+
+Under Desciption I wrote "VM-estimate" but you can write whatever you want. Pay attention below is the default monthly cost for this barebones EC2.
 
 ![15](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/3786928b-3fea-4e2a-a4c9-0038d4c54215)
 
+I added an instance type "m6g.large" and left storage settings to default.
+
 ![16](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/5b67914a-e7ba-4f43-b6ef-f82458df7542)
+
+When you are done changing what you need in AWS scroll down and click save and add service. 
 
 ![17](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/08ad6626-6ba2-4012-8821-e26190acfc99)
 
+Click on "My Estimate"
+
 ![18](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/10978e13-c120-4f24-bcc5-b8aa3d7ee5e1)
+
+And hit "Export" to save the quote
 
 ![19](https://github.com/Magee3/Planning-and-Designing-a-Cloud-Environment/assets/134301259/cbc8da5a-9325-4a38-bf97-7958d9ad2ca5)
 
